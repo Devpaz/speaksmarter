@@ -64,7 +64,7 @@ function handleImageError() {
                     </nav>
                 </header>
 
-                <main class="mt-6">
+                <!-- <main class="mt-6">
                     <div class="grid gap-6 lg:grid-cols-2 lg:gap-8">
                         <a
                             href="https://laravel.com/docs"
@@ -169,7 +169,7 @@ function handleImageError() {
 
                 <footer class="py-16 text-center text-sm text-black dark:text-white/70">
                     Laravel v{{ laravelVersion }} (PHP v{{ phpVersion }})
-                </footer>
+                </footer> -->
             </div>
         </div>
     </div>
